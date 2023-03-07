@@ -129,6 +129,7 @@ const index = () => {
   return (
    <>
    <>Auth && Dynamic Routing Demo </>
+   <h1>Add new functions</h1>
    </>
   )
 }
